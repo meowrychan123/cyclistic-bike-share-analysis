@@ -36,7 +36,6 @@ following the Ask → Prepare → Process → Analyze → Share → Act framewor
 ├── chart1_ride_length.png               ← Ride duration comparison
 ├── chart2_day_of_week.png               ← Weekly riding patterns
 ├── chart3_monthly.png                   ← Seasonal patterns
-├── chart4_hourly_index.png              ← Hourly riding index (final)
 ├── chart5_bike_type.png                 ← Bike type preferences
 ├── hourly_index.png                     ← Hourly index chart
 ├── hourly_pattern.png                   ← Raw count hourly pattern
