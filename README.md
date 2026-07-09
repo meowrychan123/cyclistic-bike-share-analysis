@@ -1,5 +1,5 @@
 #  Cyclistic Bike Share Analysis
-### Google Data Analytics Certificate — Capstone Project
+### Google Data Analytics Certificate: Capstone Project
 
 ##  Project Overview
 Analysis of 5.6 million Cyclistic bike rides to answer:
@@ -43,7 +43,8 @@ following the Ask → Prepare → Process → Analyze → Share → Act framewor
 ├── summary_by_month.csv                 ← Monthly ride summary
 ├── summary_bike_type.csv                ← Bike type summary
 ├── summary_ride_length.csv              ← Ride duration summary
-└── summary_hourly_combined.csv          ← Hourly index data
+├── summary_casual_hourly_index.csv      ← Casual hourly index data
+└── summary_member_hourly_index.csv      ← Member hourly index data
 ```
 
 ##  Analysis Summary
