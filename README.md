@@ -92,6 +92,10 @@ Data cannot distinguish between tourist casual riders
 (our actual conversion targets). A future analysis could
 filter repeat casual riders to identify locals specifically!
 
+##  Interactive Dashboard
+View the interactive Tableau dashboard here:
+🔗 [Cyclistic Bike Share Dashboard](https://public.tableau.com/views/CyclisticBikeShareAnalysis_17833366466030/CyclisticBikeShareMembervsCasualAnalysis)
+
 ##  About
 Capstone project completed as part of the
 **Google Data Analytics Professional Certificate**
