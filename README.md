@@ -30,19 +30,22 @@ following the Ask → Prepare → Process → Analyze → Share → Act framewor
 - **Period:** June 2025 - May 2026 (12 months)
 - **Privacy:** Riders' personally identifiable informations are excluded
 
-## 📁 Repository Contents
+##  Repository Contents
+```
 ├── Cyclistic_Bike_Share_Analysis.ipynb  ← Main analysis notebook
 ├── chart1_ride_length.png               ← Ride duration comparison
 ├── chart2_day_of_week.png               ← Weekly riding patterns
 ├── chart3_monthly.png                   ← Seasonal patterns
+├── chart4_hourly_index.png              ← Hourly riding index (final)
 ├── chart5_bike_type.png                 ← Bike type preferences
-├── hourly_index.png                     ← Hourly riding index
+├── hourly_index.png                     ← Hourly index chart
 ├── hourly_pattern.png                   ← Raw count hourly pattern
 ├── summary_by_day.csv                   ← Daily ride summary
 ├── summary_by_month.csv                 ← Monthly ride summary
 ├── summary_bike_type.csv                ← Bike type summary
 ├── summary_ride_length.csv              ← Ride duration summary
 └── summary_hourly_combined.csv          ← Hourly index data
+```
 
 ##  Analysis Summary
 
