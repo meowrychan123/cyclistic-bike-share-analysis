@@ -94,7 +94,7 @@ filter repeat casual riders to identify locals specifically!
 
 ##  Interactive Dashboard
 View the interactive Tableau dashboard here:
-🔗 [Cyclistic Bike Share Dashboard](https://public.tableau.com/views/CyclisticBikeShareAnalysis_17833366466030/CyclisticBikeShareMembervsCasualAnalysis)
+🔗 [Cyclistic Bike Share Dashboard](https://public.tableau.com/views/CyclisticBikeShareAnalysis_NewAPP/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ##  About
 Capstone project completed as part of the
